@@ -1,4 +1,4 @@
-📚✨ Result Achiever | HTML, CSS, JavaScript, VS Code 💡🚀
+📚✨Assignment Result System | HTML, CSS, JavaScript, VS Code 💡🚀
 
 Thrilled to present my latest project - an Assignment Result System built with HTML, CSS, and JavaScript, powered by the coding magic of Visual Studio Code! 🌐💻
 
